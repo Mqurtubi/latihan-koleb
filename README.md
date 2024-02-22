@@ -6,3 +6,4 @@ hello saya mamat
 latihan squashing
 latihan code reviewer
 tambahkan kalimat
+
